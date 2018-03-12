@@ -1,0 +1,10 @@
+#!/bin/bash
+# 1 = working directory
+# 2 = screenshot directory
+# 3 = server directory
+# 4 = full path to screenshot
+# All paths have trailing slash
+java -Xmx32m -jar $1pbscan/pbscanner1b-14.jar $4 $1$2_Bad_
+find $1$2$3 -name '*.png' -mtime +7 -exec rm {} \;
+find $1$2$3 -name '*.txt' -mtime +7 -exec rm {} \;
+
