@@ -1,0 +1,164 @@
+/*
+  normal.css - default appearance for modern browsers
+*/
+
+BODY
+{
+  color: #000000;
+  background: #FFFFFF;
+  font-family: verdana, arial;
+  font-style: normal;
+  font-size: 12px;
+}
+
+.hdra
+{
+  font-family: verdana, arial;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 3mm;
+  margin-bottom: 3mm;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #000000;
+  background: #C8D6FF;
+}
+
+.hdrc
+{
+  font-family: verdana, arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 3mm;
+  margin-bottom: 3mm;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #DFE7FD;
+  color: #000000;
+}
+
+.hdrd
+{
+  font-family: verdana, arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 3mm;
+  margin-bottom: 3mm;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #F1F1F1;
+  color: #000000;
+}
+
+.hdrf
+{
+  font-family: verdana, arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 3mm;
+  margin-bottom: 6mm;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #DFE7FD;
+  color: #000000;
+}
+
+.hdrg
+{
+  font-family: verdana, arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 3mm;
+  margin-bottom: 6mm;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #F1F1F1;
+  color: #000000;
+}
+
+.tblc
+{
+  font-family: verdana, arial;
+  font-size: 12px;
+  font-weight: bold;
+  background: #DFE7FD;
+  color: #001656;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.tbla
+{
+  font-family: verdana, arial;
+  font-size: 12px;
+  background: #FAFAFA;
+  color: #000000;
+}
+
+.tblb
+{
+  font-family: verdana, arial;
+  font-size: 12px;
+  vertical-align: middle;
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.tblp
+{
+  font-family: verdana, arial;
+  font-size: 6px;
+  background: #FAFAFA;
+  color: #000000;
+}
+
+.tblq
+{
+  font-family: verdana, arial;
+  font-size: 6px;
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.cntr
+{
+  vertical-align: middle;
+}
+
+.tblm
+{
+  margin-bottom: 6mm;
+}
+
+.menulink
+{
+  color: #3C6AEC;
+  text-decoration: none
+}
+
+.menulink:visited
+{
+  color: #26469F;
+}
+
+A:link
+{
+  color: #3C6AEC;
+}
+
+A:visited
+{
+  color: #26469F;
+}
